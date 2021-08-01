@@ -11,7 +11,7 @@ function getAmount() {
     createBoxes(amount);
   }
   function random() {
-    return Math.floor(Math.random() * 76);
+    return Math.floor(Math.random() * 116);
   }
 
   
